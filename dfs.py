@@ -1,5 +1,5 @@
 
-
+#this is a iterative method for dfs
 def dfs(graph, start):
     visited = set()
     st = [start]
